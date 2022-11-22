@@ -1,0 +1,26 @@
+body{
+
+  background: black;
+  color:whitesmoke;
+}
+h1,p{
+  text-align: center;
+}
+
+.start {
+  padding-top: 100px;
+}
+#submitButton{
+  margin-left:120px;
+}
+th,tr{
+  color:white;
+}
+
+img {
+  display: flex;
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
